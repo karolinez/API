@@ -78,11 +78,9 @@ app.get('/usuarios', async (req, res)=>{
 })
 app.listen(3000)
 
-/* nossas rotas precisam de 
- 1 tipo de rota
- 2 endereço
- */
+
 /* 
 objetivos: Criar um usuario, listar todos os usuarios,editar um usuario e deletar usuario
-Route params (get/put/delete) server para algo especifico
+Route params (get/put/delete).
 */
+
